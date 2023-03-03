@@ -26,6 +26,6 @@ public class Lab {
      * @return text.
      */
     public String copy(String input){
-        return input;
+        return input; 
     }
 }
