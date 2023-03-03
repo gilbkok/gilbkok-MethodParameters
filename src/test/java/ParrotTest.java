@@ -2,8 +2,10 @@
 import org.junit.Assert;
 import org.junit.Test;
 
+
 public class ParrotTest {
     Lab p = new Lab();
+
 
     /**
      * If p.copy is passed "hello", it should return "hello".
